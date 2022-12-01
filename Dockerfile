@@ -4,4 +4,4 @@ FROM openjdk:8
 
 # Maintainer 
 MAINTAINER "Sasifuture1238@gmail.com" 
-COPY ./taxi-booking-1.0.1.war /usr/local/tomcat/taxi-booking
+COPY ./taxi-booking-1.0.1.war/usr/local/tomcat/taxi-booking
